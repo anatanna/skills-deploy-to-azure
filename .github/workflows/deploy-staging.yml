@@ -12,6 +12,7 @@ env:
   DOCKER_IMAGE_NAME: anatanna-azure-ttt
   AZURE_WEBAPP_NAME: anatanna-ttt-app
   ###############################################
+  #
 
 jobs:
   build:
